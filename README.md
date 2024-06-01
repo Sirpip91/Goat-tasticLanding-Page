@@ -2,7 +2,7 @@
 Welcome to the Goat-tastic Landing Page repository! This is where the magic happens—if by magic you mean a website devoted to the delightful world of goats. Whether you're here for the humor or because you're a serious goat enthusiast, we have something for everyone.
 
 ## 🚀 Live Demo
-Check out the live site here: 
+Check out the live site here: https://sirpip91.github.io/GoatLandingPage/
 
 ## 🐐 About the Project
 This project is a whimsical, informative, and utterly goat-filled landing page designed to delight users and inform them about the greatness of goats. Perfect for my portfolio, this site showcases my skills in web development with a touch of humor.
